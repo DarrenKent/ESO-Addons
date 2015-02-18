@@ -1,0 +1,24 @@
+## Title: |cFFA200[SCAR] |cFFFFFFSystem Logger|r
+## Author: |cFFA200Scarak|r
+## APIVersion: 100010
+## Version: 0.0.1a
+## Description: A simple system logger. This logger displays system information such as combat logs and loot logs.
+## SavedVariables: SCARSystemLoggerSettings
+## OptionalDependsOn: LibAddonMenu-2.0
+
+libs\LibStub\LibStub.lua
+libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
+libs\LibAddonMenu-2.0\controls\panel.lua
+libs\LibAddonMenu-2.0\controls\submenu.lua
+libs\LibAddonMenu-2.0\controls\button.lua
+libs\LibAddonMenu-2.0\controls\checkbox.lua
+libs\LibAddonMenu-2.0\controls\colorpicker.lua
+libs\LibAddonMenu-2.0\controls\custom.lua
+libs\LibAddonMenu-2.0\controls\description.lua
+libs\LibAddonMenu-2.0\controls\dropdown.lua
+libs\LibAddonMenu-2.0\controls\editbox.lua
+libs\LibAddonMenu-2.0\controls\header.lua
+libs\LibAddonMenu-2.0\controls\slider.lua
+libs\LibAddonMenu-2.0\controls\texture.lua
+
+SCARSystemLogger.lua
